@@ -1,5 +1,5 @@
 - Hello There, I am Temesgen Workineh
-- Fullstack Web Developer 
+- Student at Haramaya University 
 
 <img align="right" alt="Coding" width="400" src="https://www.example.com/your-image.gif">
 
